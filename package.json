@@ -63,7 +63,7 @@
     "graphql-resolvers-ast": "1.4.0",
     "graphql-tools": "4.0.5",
     "graphql-type-json": "0.3.0",
-    "join-monster": "2.0.15",
+    "join-monster": "2.1.0",
     "join-monster-graphql-tools-adapter": "0.0.3",
     "lodash.merge": "^4.6.2",
     "mongo-sql": "6.2.0",
